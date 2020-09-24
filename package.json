@@ -1,6 +1,6 @@
 {
   "name": "parcel-ip",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Print the local ip address to access parcel on other devices",
   "main": "index.js",
   "bin": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/braden337/parcel-ip#readme",
   "dependencies": {
-    "address": "^1.1.2"
+    "address": "^1.1.2",
+    "chalk": "^4.1.0"
   }
 }
