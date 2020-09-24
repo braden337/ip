@@ -1,5 +1,5 @@
 {
-  "name": "@braden337/parcel-ip",
+  "name": "parcel-ip",
   "version": "1.0.0",
   "description": "Print the local ip address to access parcel on other devices",
   "main": "index.js",
