@@ -1,0 +1,25 @@
+{
+  "name": "@braden337/parcel-ip",
+  "version": "1.0.0",
+  "description": "Print the local ip address to access parcel on other devices",
+  "main": "index.js",
+  "bin": {
+    "parcel-ip": "./bin/parcel-ip.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braden337/parcel-ip.git"
+  },
+  "author": "braden337@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braden337/parcel-ip/issues"
+  },
+  "homepage": "https://github.com/braden337/parcel-ip#readme",
+  "dependencies": {
+    "address": "^1.1.2"
+  }
+}
